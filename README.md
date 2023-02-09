@@ -16,7 +16,7 @@ The views are different if you using cached vs online mode, namely: Cached mode 
 
 ## You can now perform a number of things on a profile using the MFCMAPI tool:
 
- - [ ] Save MAPI properties of an Item.
+ - Save MAPI properties of an Item.
   
  - Check permissions on a folder.
   

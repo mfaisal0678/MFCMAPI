@@ -11,7 +11,7 @@ You have a very powerful tool called MFCMAPI. This tool allows you to investigat
 ## There are a few steps involved in running this tool:
 
 You need to connect to your profile.
-The views are different if you using cached vs online mode, namely: Cached mode will show "IPM_SUBTREE" and online mode will show "Top of Information Store"
+The views are different if you using cached vs online mode, namely: Cached mode will show ***"IPM_SUBTREE"*** and online mode will show "Top of Information Store"
 
 
 ## You can now perform a number of things on a profile using the MFCMAPI tool:

@@ -16,9 +16,14 @@ The views are different if you using cached vs online mode, namely: Cached mode 
 
 # You can now perform a number of things on a profile using the MFCMAPI tool:
 
-  Save MAPI properties of an Item
-  Check permissions on a folder
-  Check Public Folders
-  View .MSG or perform Conversions
-  View Message Attachments
+  Save MAPI properties of an Item.
+  
+  Check permissions on a folder.
+  
+  Check Public Folders.
+  
+  View .MSG or perform Conversions.
+  
+  View Message Attachments.
+  
   Check rules in the Mailbox.

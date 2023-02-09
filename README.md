@@ -6,7 +6,7 @@ We have used this tool many times where users have corrupt Inbox Rules which you
 
 You have a very powerful tool called MFCMAPI. This tool allows you to investigate Outlook issues.
 
-**Warning** Do take note, this tool can change raw data so be careful what you modify or delete as it may be difficult to reverse. Rather work with someone that understands MAPI and Exchange to assist you with this.
+*Warning !* Do take note, this tool can change raw data so be careful what you modify or delete as it may be difficult to reverse. Rather work with someone that understands MAPI and Exchange to assist you with this.
 
 # There are a few steps involved in running this tool:
 
